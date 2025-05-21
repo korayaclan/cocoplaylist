@@ -1,61 +1,11 @@
 ﻿#EXTM3U
-
-#EXTINF:-1,TRT 1
-https://tv-trt1-dai.medya.trt.com.tr/master_2.m3u8
-#EXTINF:-1,TRT 1
-https://trt1.blutv.com/blutv_trt1_live/live.m3u8
-#EXTINF:-1,TRT 1
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT 2
-http://167.114.115.233:8080/trt2fhd/index.m3u8
-
 #EXTINF:-1,ATV
-http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
-#EXTINF:-1,ATV
-http://gineu8.bozztv.com/gin-trn09/gin-atvv/index.m3u8
-#EXTINF:-1,ATV (backup)
 https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
-
 #EXTINF:-1,TV8 
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1,TV8
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web&ce=3
-#EXTINF:-1,TV8
-http://hw1.jemtv.com/app/tv8/playlist.m3u8
-#EXTINF:-1,TV8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
-#EXTINF:-1,TV8 (backup)
-https://bozztv.com/inim03/live1/tv8tv/playlist.m3u8
-
-#EXTINF:-1,TRTSPOR
-https://trtspor.blutv.com/blutv_trtspor/live.m3u8
-#EXTINF:-1,TRTSPOR
-http://hw1.jemtv.com/app/trtspor/playlist.m3u8
-
 #EXTINF:-1,TRT BELGESEL
-http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT BELGESEL
-https://trtbelgesel.blutv.com/blutv_trtbelgesel2/live.m3u8
-#EXTINF:-1,TRT BELGESEL
-http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT BELGESEL HD
-https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT BELGESEL (backup)
 https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT BELGESEL (backup)
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
-#EXTINF:-1,TRT BELGESEL
-http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
-
 #EXTINF:-1,DMAX
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1,DMAX
-http://hw1.jemtv.com/app/Dmax/playlist.m3u8
-#EXTINF:-1,DMAX (backup)
-https://dmax.blutv.com/blutv_dmax2/live.m3u8
-#EXTINF:-1,DMAX
-http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
-#EXTINF:-1,DMAX
-http://stream.tvcdn.net/eglence/dmax.m3u8
-#EXTINF:-1,DMAX SD
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
